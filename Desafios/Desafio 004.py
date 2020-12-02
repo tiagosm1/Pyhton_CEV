@@ -1,0 +1,7 @@
+n1 = input("Digite algo para ter informações sobre:")
+print('É numérico?', n1.isnumeric())
+print('É AlphaNum?', n1.isalnum())
+print('É Decimal?', n1.isdecimal())
+print('É Minusculo?', n1.islower())
+print('É Maiusculo?', n1.isupper())
+print(type(n1))
