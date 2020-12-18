@@ -12,3 +12,5 @@ def voto(ano):
 nasc = int(input('Qual ano de nascimento:'))
 print(voto(nasc))
 
+teste dell
+
