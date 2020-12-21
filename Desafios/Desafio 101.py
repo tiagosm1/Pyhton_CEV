@@ -13,3 +13,5 @@ nasc = int(input('Qual ano de nascimento:'))
 print(voto(nasc))
 
 teste github no hp
+teste no github 21/12/ 17:20
+
