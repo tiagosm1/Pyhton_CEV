@@ -8,3 +8,5 @@ except urllib.error.URLError:
 else:
     print('O GOOGLE está acessível!!!')
 print(site.read)
+
+TESTE DELL
