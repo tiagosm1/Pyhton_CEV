@@ -1,0 +1,1 @@
+n = leiaInt('Digite um número: ')
