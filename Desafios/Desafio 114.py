@@ -9,8 +9,4 @@ else:
     print('O GOOGLE está acessível!!!')
 print(site.read)
 
-TESTE DELL
-
-teste HP
-
 
